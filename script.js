@@ -1,0 +1,17 @@
+let direction = 'right';
+
+if(direction == 'left'){
+    console.log("red planet");
+}
+
+else if(direction == 'right'){
+    console.log('purple right');
+}
+
+else if(direction == 'backwards'){
+    console.log('back home');
+}
+
+else{
+    console.log('ship crashes');
+}
